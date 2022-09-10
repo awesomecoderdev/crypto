@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" height="48px" version="1.1" viewBox="0 0 164 48" width="164px" x="0px" y="0px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="clip-1642496000">
+      <rect height="48" width="164" x="0" y="0"/>
+    </clipPath>
+  </defs>
+  <rect height="48" style="fill:rgb(255,255,255);fill-opacity:0;stroke:none;" width="164" x="0" y="0"/>
+  <rect height="48" style="fill:rgb(255,255,255);fill-opacity:0;stroke:none;" width="164" x="0" y="0"/>
+  <g clip-path="url(#clip-1642496000)">
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="6.560000000000002" x2="11.94857142857143" y1="8.537337439763945" y2="4.048209055825083"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="11.94857142857143" x2="17.337142857142858" y1="4.048209055825083" y2="1.920000000000002"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="17.337142857142858" x2="22.725714285714286" y1="1.920000000000002" y2="6.570310180112358"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="22.725714285714286" x2="28.114285714285714" y1="6.570310180112358" y2="10.145710230291186"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="28.114285714285714" x2="33.502857142857145" y1="10.145710230291186" y2="7.132536936586973"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="33.502857142857145" x2="38.89142857142857" y1="7.132536936586973" y2="6.89189684588051"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="38.89142857142857" x2="44.28" y1="6.89189684588051" y2="10.00357129494219"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="44.28" x2="49.668571428571425" y1="10.00357129494219" y2="2.221460801857305"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="49.668571428571425" x2="55.057142857142864" y1="2.221460801857305" y2="14.699052439207449"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="55.057142857142864" x2="60.44571428571429" y1="14.699052439207449" y2="16.833310729648765"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="60.44571428571429" x2="65.83428571428571" y1="16.833310729648765" y2="18.986539418301845"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="65.83428571428571" x2="71.22285714285714" y1="18.986539418301845" y2="24.75022127089173"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="71.22285714285714" x2="76.61142857142858" y1="24.75022127089173" y2="39.78100707525335"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="76.61142857142858" x2="82" y1="39.78100707525335" y2="36.880760489393644"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="82" x2="87.38857142857142" y1="36.880760489393644" y2="45.21672556364108"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="87.38857142857142" x2="92.77714285714285" y1="45.21672556364108" y2="44.771688172456265"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="92.77714285714285" x2="98.16571428571427" y1="44.771688172456265" y2="43.83143156385415"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="98.16571428571427" x2="103.55428571428573" y1="43.83143156385415" y2="40.56279486689467"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="103.55428571428573" x2="108.94285714285715" y1="40.56279486689467" y2="35.753316349452035"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="108.94285714285715" x2="114.33142857142857" y1="35.753316349452035" y2="41.515018368332484"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="114.33142857142857" x2="119.72" y1="41.515018368332484" y2="39.2660239604479"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="119.72" x2="125.10857142857142" y1="39.2660239604479" y2="46.08"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="125.10857142857142" x2="130.49714285714285" y1="46.08" y2="39.71156613399072"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="130.49714285714285" x2="135.88571428571427" y1="39.71156613399072" y2="44.160482389015385"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="135.88571428571427" x2="141.27428571428572" y1="44.160482389015385" y2="43.235674537517994"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="141.27428571428572" x2="146.66285714285715" y1="43.235674537517994" y2="39.67406441849638"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="146.66285714285715" x2="152.05142857142857" y1="39.67406441849638" y2="44.56730418565408"/>
+    <line style="fill:none;stroke:rgb(237,194,64);stroke-width:2;stroke-miterlimit:10;stroke-linecap:round;" x1="152.05142857142857" x2="157.44" y1="44.56730418565408" y2="42.34332964730693"/>
+  </g>
+</svg>
